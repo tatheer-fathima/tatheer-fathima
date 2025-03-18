@@ -10,7 +10,7 @@
 </p>
 
 ---
-<h3 align="center"> 📊 My GitHub Stats 📊 </h3>  
+<h3 align="center">  My GitHub Stats  </h3>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tatheer-fathima&show_icons=true&theme=radical" alt="Lakshmiraj's GitHub Stats" width="50%" height="150px" />  
@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="center"> 🪶 GSSoC'24 Badges 🏆 </h3>  
+<h3 align="center">  GSSoC'24 Badges  </h3>  
 
 <div align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
