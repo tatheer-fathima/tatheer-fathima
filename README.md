@@ -10,4 +10,27 @@
 </p>
 
 ---
+<h3 align="center"> 📊 My GitHub Stats 📊 </h3>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tatheer-fathima&show_icons=true&theme=radical" alt="Lakshmiraj's GitHub Stats" width="50%" height="150px" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatheer-fathima&layout=compact&theme=radical" alt="Top Languages" width="48%" height="150px" />
+</p>
+
+---
+
+<h3 align="center"> 🪶 GSSoC'24 Badges 🏆 </h3>  
+
+<div align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="GSSoC Postman Badge" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="GSSoC Badge 1" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="GSSoC Badge 2" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="GSSoC Badge 3" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="GSSoC Badge 4" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="GSSoC Badge 5" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" alt="GSSoC Badge 6" width="105px" height="105px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" alt="GSSoC Badge 7" width="100px" height="100px" />
+  </a>
+</div>
 
