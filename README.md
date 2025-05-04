@@ -8,7 +8,7 @@
 
 🎓 **Final Year B.Tech CSE student** at Gayatri Vidya Parishad College of Engineering (A) – The "almost-there" phase where I’m both excited and scared of the real world!
 
-🔢 **Competitive programming addict** – Who needs sleep when you can have a new personal best on LeetCode? Oh wait, I still need sleep... but first, let me solve this problem.
+🧠 Aspiring bug creator – My code doesn’t always run, but when it does, I have no idea why.
 
 🌱 **Always learning** – Every new tech is a new playground. Watch me break things and call it “experimentation.”
 
