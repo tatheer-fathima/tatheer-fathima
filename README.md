@@ -16,6 +16,14 @@
 
 ---
 
+## 🛠️ Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,git,github" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,firebase,c,cpp,java,vscode,postman" height="50" />
+</p>
+
+---
 ## 🏆 Achievements
 
 
@@ -23,16 +31,6 @@
 - 🧠 **Secretary** at **ASCI (Association of Computer Intellects)**  
 - 📚 Completed the **160 Days DSA Challenge** on GFG — Got a cool **GFG Swag Bag!**
 - 🎯 **LeetCode** Problems Solved: **100+**  
-
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,git,github" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,firebase,c,cpp,java,vscode,postman" height="50" />
-</p>
 
 ---
 
