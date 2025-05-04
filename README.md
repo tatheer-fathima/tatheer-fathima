@@ -1,6 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=120&section=header" alt="header"/>
-
-
 <h1 align="center">  Hello! I'm Tatheer Fathima </h1>  
 <h3 align="center"> Final Year B.Tech CSE Student | Tech Enthusiast | Open Source Contributor </h3>  
 
