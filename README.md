@@ -30,8 +30,8 @@
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,c,cpp,java,tailwindcss" height="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap,daisyui" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,mongodb,git,github,vscode,postman" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,firebase,c,cpp,java" height="50" />
 </p>
 
 ---
