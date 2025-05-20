@@ -10,8 +10,6 @@
 
 🧠 Aspiring bug creator – My code doesn’t always run, but when it does, I have no idea why.
 
-🌱 **Always learning** – Every new tech is a new playground. Watch me break things and call it “experimentation.”
-
 💡 **Fun Fact**: Tried fixing a bug once and ended up creating three more. 
 
 ---
