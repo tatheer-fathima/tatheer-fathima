@@ -47,13 +47,7 @@
 
 ---
 
-## 🤡 Fun Facts About Me
 
-- 🕵️‍♂️ My coding strategy? Copy → Paste → Hope.
-- 🤷 Consistency? I consistently tell myself "I'll start tomorrow."
-- 📅 My planner has three states: "I'll do it later", "Why did I agree to this?", and "Oops, deadline was yesterday".
-
----
 
 ## 🌟 Featured Projects
 
@@ -62,6 +56,14 @@
 | 🌍 **Eco-Sphere** | A carbon footprint tracker with smart suggestions and visualizations. | 
 | 📁 **EaseCRUD**   | Simple full-stack CRUD app to manage records with RESTful APIs.       |
 | 🛡️ **Phishing Detector** | A tool to detect phishing URLs and protect users from scams. |
+
+---
+
+## 🤡 Fun Facts About Me
+
+- 🕵️‍♂️ My coding strategy? Copy → Paste → Hope.
+- 🤷 Consistency? I consistently tell myself "I'll start tomorrow."
+- 📅 My planner has three states: "I'll do it later", "Why did I agree to this?", and "Oops, deadline was yesterday".
 
 ---
 
