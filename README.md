@@ -6,8 +6,8 @@
 ## 🔮 About Me
  
 
-- 🎓 **Final Year B.Tech CSE student** at Gayatri Vidya Parishad College of Engineering (A) – The "almost-there" phase where I’m both excited and scared of the real world!
-- 💡 I'm still learning and exploring new technologies every day.  
+- 🎓 **Final Year B.Tech CSE student**  – The "almost-there" phase where I’m both excited and scared of the real world!
+- 💡  Currently juggling between sleep, 100 Chrome tabs, and debugging errors I created myself.  
 
 ---
 
@@ -50,10 +50,27 @@
 ## 🤡 Fun Facts About Me
 
 - 🕵️‍♂️ My coding strategy? Copy → Paste → Hope.
-- 🤷 I put “debugging” on my resume because “trying random stuff until it works” sounded unprofessional.
+- 🤷 Consistency? I consistently tell myself "I'll start tomorrow."
 - 📅 My planner has three states: "I'll do it later", "Why did I agree to this?", and "Oops, deadline was yesterday".
-  
+
 ---
+
+## 🌟 Featured Projects
+
+| Project        | Description                                                             | 
+|----------------|-------------------------------------------------------------------------|
+| 🌍 **Eco-Sphere** | A carbon footprint tracker with smart suggestions and visualizations. | 
+| 📁 **EaseCRUD**   | Simple full-stack CRUD app to manage records with RESTful APIs.       |
+| 🛡️ **Phishing Detector** | A tool to detect phishing URLs and protect users from scams. |
+
+---
+
+## 📈 Achievements (Or Whatever 😅)
+
+-  No big wins yet, but hey, the journey is the real win, right?  ✨ 
+
+---
+
 ## 💬 Let’s Connect
 
 <p align="center">
